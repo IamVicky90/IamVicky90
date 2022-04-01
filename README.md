@@ -6,40 +6,39 @@
 ## :sassy_man:  About me
 - 3rd Year BSCS student at `COMSATS University` | Aspiring Data Scientist (ML, DL, NLP) | Big Data | AIOPS | Cloud Computing
 - Intresting in `Data Scientist/Analyst`, Big Data, Cloud Computing, AIOPS, Proficient in Data Science with focus on challenging businesses problems.
-- Technology Stacks:
-1) HDFS File Systems.
-2) Hadoop/Big Data
-3) Hive
-4) PySpark
-5) Spark Streaming
-6) Kafka
-7) Talend
-8) Informatica
-9) Data Bricks
-10) Sqoop
-11) NoSQL and HBASE
-12) DataBases knowledge MongoDB, Cassandra, MySQL, SQL, Oracle, and SQLLITE.
-13) Apache Airflow.
-14)  Enterprise Big Data ETL tools like ETL from Talend Studio- Integration with HDFS, Hive, Sqoop, Spark, etc and ETL from Informatica BDM- Integration with HDFS, Hive, Sqoop, Spark, etc
-15) Spark ML
-16) Feature Engineering, Data pre-processing, with Sklearn's Pipelines and Algorithms.
-17) Data Manipulation with Pandas, Numpy, etc.
-18) In-depth knowledge of Supervised and Unsupervised Machine Learning Models.
-19) In-depth knowledge of Statistics.
-20) Tensorflow and Keras.
-21) Cloud Knowledge in  Azure, AWS (EC2, S3 bucket, Sage Maker), GCP, and Heroku.
-22) Knowledge In AIOPS.
-23) Github and Gitlab.
-24) Data Version Control (DVC).
-25) Mlflow.
-26) Dockers.
-27) Kubernetes 
-28) Tensorflow Extend(TFX).
-29) Kuberflow.
-30) AWS/Azure/GCP AIOPS.
-31) Digital Oceans.
-32) Web Scraping (Beautiful Soup, Scrapy, and Selenium) and Python programming language.
-
+### Technology Stacks:
+Technology Stacks:
+- Core/In-depth/Practical Knowledge in:
+1) Feature Engineering, Data pre-processing, with Sklearn's Pipelines and Algorithms.
+2) Data Manipulation with Pandas, Numpy, etc.
+3) In-depth knowledge of Supervised and Unsupervised Machine Learning Models.
+4) In-depth knowledge of Statistics.
+5) Tensorflow and Keras.
+6) Pytorch.
+7) Cloud Knowledge in  Azure, AWS (EC2, S3 bucket, Sage Maker), GCP, and Heroku.
+8) Knowledge In AIOPS.
+9) Github and Gitlab.
+10) Data Version Control (DVC).
+11) Mlflow.
+12) Dockers.
+13) Kubernetes.
+14) Tensorflow Extend(TFX).
+15) Kuberflow.
+16) AWS/Azure/GCP AIOPS.
+17) Digital Oceans.
+18) Web Scraping (Beautiful Soup, Scrapy, and Selenium) and Python programming language.
+- Additional/Little Bit of knowledge:
+19) HDFS File Systems.
+20) Hadoop/Big Data.
+21) Hive.
+22) PySpark.
+23) Spark Streaming.
+24) Kafka.
+25) Data Bricks.
+26) NoSQL and HBASE.
+27) DataBases knowledge MongoDB, Cassandra, MySQL, SQL, Oracle, and SQLLITE.
+28) Apache Airflow.
+29) Spark ML.
 <br>
 
 ## 🔥 Streak Stats
