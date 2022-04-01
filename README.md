@@ -19,14 +19,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Artificial+Intelligence;Data+Sceince;Machine+Learning;Deep+Learning;Natural+Language+Processing;Cloud+Computing;AIOPS;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-
-
-
-
 ## :sassy_man:  About me
-- :school: I am a `Student` at  COMSATS University Islamabad
-- Aspiring Data Scientist/Analyst, Big Data, Cloud Computing, AIOPS, Proficient in Data Science with focus on challenging businesses problems.
-- 3rd Year BSCS student at COMSATS University | Aspiring Data Scientist (ML, DL, NLP) | Big Data | AIOPS | Cloud Computing
+- 3rd Year BSCS student at `COMSATS University` | Aspiring Data Scientist (ML, DL, NLP) | Big Data | AIOPS | Cloud Computing
+- Intresting in `Data Scientist/Analyst`, Big Data, Cloud Computing, AIOPS, Proficient in Data Science with focus on challenging businesses problems.
 - Technology Stacks:
 1) HDFS File Systems.
 2) Hadoop/Big Data
@@ -46,7 +41,7 @@ Here are some ideas to get you started:
 16) Feature Engineering, Data pre-processing, with Sklearn's Pipelines and Algorithms.
 17) Data Manipulation with Pandas, Numpy, etc.
 18) In-depth knowledge of Supervised and Unsupervised Machine Learning Models.
-19) In-depth knowledge in Statistics.
+19) In-depth knowledge of Statistics.
 20) Tensorflow and Keras.
 21) Cloud Knowledge in  Azure, AWS (EC2, S3 bucket, Sage Maker), GCP, and Heroku.
 22) Knowledge In AIOPS.
