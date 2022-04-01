@@ -7,7 +7,6 @@
 - 3rd Year BSCS student at `COMSATS University` | Aspiring Data Scientist (ML, DL, NLP) | Big Data | AIOPS | Cloud Computing
 - Intresting in `Data Scientist/Analyst`, Big Data, Cloud Computing, AIOPS, Proficient in Data Science with focus on challenging businesses problems.
 ### Technology Stacks:
-Technology Stacks:
 - Core/In-depth/Practical Knowledge in:
 1) Feature Engineering, Data pre-processing, with Sklearn's Pipelines and Algorithms.
 2) Data Manipulation with Pandas, Numpy, etc.
