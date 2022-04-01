@@ -118,6 +118,18 @@ Here are some ideas to get you started:
  
 <p align="center">
   &emsp;
+    <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda%20-%23F05033.svg?style=plastic&logo=Anaconda&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Numpy" src="https://img.shields.io/badge/Numpy%20-%23F05033.svg?style=plastic&logo=Numpy&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23F05033.svg?style=plastic&logo=Pandas&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow%20-%23F05033.svg?style=plastic&logo=Tensorflow&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23F05033.svg?style=plastic&logo=PyTorch&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Sklearn" src="https://img.shields.io/badge/Sklearn%20-%23F05033.svg?style=plastic&logo=Sklearn&logoColor=white"></a>
+  &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
