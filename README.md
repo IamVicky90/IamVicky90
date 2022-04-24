@@ -4,7 +4,7 @@
 </p>
 
 ## :sassy_man:  About me
-- 3rd Year Bachlor's in Computer Science from `COMSATS University` | Aspiring Data Scientist (ML, DL, NLP) | Big Data | AIOPS | Cloud Computing
+- Bachlor's in Computer Science from `COMSATS University` | Data Scientist (ML, DL, NLP) | Big Data | AIOPS | Cloud Computing
 - Intresting in `Data Scientist/Analyst`, Big Data, Cloud Computing, AIOPS, Proficient in Data Science with focus on challenging businesses problems.
 ### Technology Stacks:
 - Core/In-depth/Practical Knowledge in:
