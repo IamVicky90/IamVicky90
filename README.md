@@ -165,17 +165,6 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-
-----
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/IamVicky90"><img alt="IamVicky90's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=IamVicky90&custom_title=IamVicky90's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-
-<br/>
-
 -----
 Credits: [IamVicky90](https://github.com/IamVicky90)
 
