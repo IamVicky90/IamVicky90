@@ -4,8 +4,8 @@
 </p>
 
 ## :sassy_man:  About me
-- Bachlor's in Computer Science from `COMSATS University` | Data Scientist (ML, DL, NLP) | Big Data | AIOPS | Cloud Computing
-- Intresting in `Data Scientist/Analyst`, Big Data, Cloud Computing, AIOPS, Proficient in Data Science with focus on challenging businesses problems.
+- Bachelor's in Computer Science from `COMSATS University` | Data Scientist (ML, DL, NLP) | Big Data | AIOPS | Cloud Computing
+- `Data Scientist/Analyst`, Big Data, Cloud Computing, AIOPS, Proficient in Data Science with a focus on challenging business problems.
 - Resume Link https://drive.google.com/file/d/1KKCNA2NxSG5MjGrRhxcN2Lu2Rwhq4HfW/view?usp=share_link
 ### Technology Stacks:
 - Core/In-depth/Practical Knowledge in:
