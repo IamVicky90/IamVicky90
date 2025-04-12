@@ -1,7 +1,4 @@
 <h1 align="center">Hi , I'm Vicky <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/IamVicky90"><img src="https://readme-typing-svg.herokuapp.com?lines=Data%20Scientist%20(ML,%20DL,%20NLP);Big+Data;AIOPS;Cloud+Computing;AIOPS;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
 
 ## :sassy_man:  About me
 - Bachelor's in Computer Science from `COMSATS University` | Data Scientist (ML, DL, NLP) | Big Data | AIOPS | Cloud Computing
