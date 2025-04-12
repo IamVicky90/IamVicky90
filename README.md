@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Vicky <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Waqas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## :sassy_man:  About me
 - Bachelor's in Computer Science from `COMSATS University` | Data Scientist (ML, DL, NLP) | Big Data | AIOPS | Cloud Computing
