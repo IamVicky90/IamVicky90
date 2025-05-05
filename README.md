@@ -149,6 +149,6 @@
 
 -----
 
-Credits: [IamVicky90](https://github.com/IamVicky90)
+Credits: [mwaqas-sudo](https://github.com/mwaqas-sudo)
 
 Last Edited on: 1/04/2022
